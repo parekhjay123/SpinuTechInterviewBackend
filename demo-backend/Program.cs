@@ -16,8 +16,7 @@ if (!string.IsNullOrEmpty(allowedOrigins))
         {
             builder.WithOrigins(origins)
                    .AllowAnyMethod()
-                   .AllowAnyHeader()
-                   .AllowCredentials();
+                   .AllowAnyHeader();                   
         });
     });
 }
