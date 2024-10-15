@@ -1,0 +1,91 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.csproj.user
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Build directories
+bin/
+obj/
+Debug/
+Release/
+out/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+.vscode/*
+.vs/
+.idea/
+*.sln.docstates
+
+# Rider-specific files
+.idea/
+*.sln.iml
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code workspace storage
+.vscode/
+
+# Local history for Visual Studio
+.history/
+
+# DotNet SDK log files
+**/dotnet.runtimeconfig.json
+**/dotnet.runtimeconfig.dev.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.mdf
+*.ldf
+
+# Rider-specific files
+.idea/
+.idea_modules/
+.idea_*
+
+# Mac specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+__MACOSX
+
+# JetBrains Rider
+.idea/
